@@ -1,0 +1,124 @@
+Inconsistent Genre Records: 
+The following [122] records are dropped because same [genres.name] exist in the database
+Epic
+stage musical
+bio
+Disaster
+Cartoon
+Black
+cond
+History
+Western
+comd west
+surr
+road
+noir comd romt
+Comedy
+comd noir
+romt actn
+anti-dram
+ram
+Violence
+kinky
+biop 
+romtx
+romt dram
+docu 
+verite
+ctcxx
+mystp
+cnrbb
+muscl
+natu
+draam
+cmr
+susp 
+hor
+noir comd
+Science Fiction
+dram docu
+cult
+scif
+Mystery
+porn 
+porb
+romt. comd
+ca
+surreal
+h
+Sureal
+allegory
+romtadvt
+biog
+weird
+comdx
+biob
+txx
+sati
+psyc
+Family
+	susp
+tvmini
+romt 
+biopx
+dist
+muscl 
+Pornography
+myst 
+dram 
+duco
+rfp; h* 
+act
+horr 
+Avant Garde
+Thriller
+Biographical Picture
+dicu
+advt 
+Musical
+biopp
+TV show
+cart 
+adctx
+dram.actn
+h**
+art video
+camp
+avant garde
+Cops and Robbers
+fant 
+Drama
+romt fant
+scat
+fanth* 
+psych dram
+dramn
+docu dram
+h0
+ctxxx
+drama
+undr
+Documentary
+homo
+comd 
+dramd
+axtn
+west1
+sxfi
+expm
+Adventure
+sports
+Horror
+viol
+Uncategorized
+muusc
+ducu
+fant
+Romantic
+dram>
+cnrb
+ront
+romt comd
+adct
+crim
+sctn

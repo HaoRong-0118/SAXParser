@@ -1,0 +1,25 @@
+Stars Records:
+There are [6863] new star records parsed from the .xml file
+  [6849] star records were removed, details could be found in <inconsistent-star-records.txt>
+  [14] new stars added to the database
+
+Genre Records:
+There are [124] new genre records parsed from the .xml file
+  [124] genre records were removed, details could be found in <inconsistent-genre-records.txt>
+  [0] new genres added to the database
+
+Movies Records:
+There are [12115] new movie records parsed from the .xml file
+  [11992] movie records were removed, details could be found in <inconsistent-movie-records.txt>
+  [123] new movie added to the database
+
+GIM Records:
+There are [9850] new GIM records parsed from the .xml file
+  [9850] movie records were removed, details could be found in <inconsistent-GIM-records.txt>
+  [0] new GIM added to the database
+
+SIM Records:
+There are [48938] new SIM records parsed from the .xml file
+  [48938] movie records were removed, details could be found in <inconsistent-SIM-records.txt>
+  [0] new SIMs added to the database
+
